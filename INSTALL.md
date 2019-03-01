@@ -11,6 +11,7 @@ The following libraries need to be installed.
 You can do `pip install` for all the libraries except `vtk`.
 
 **Installing VTK**
+
 The code is tested with VTK 6.3.0. Newer/older versions might not work.
 You need to install VTK from source. Download the source for VTK 6.3.0 from https://vtk.org/download/
 
